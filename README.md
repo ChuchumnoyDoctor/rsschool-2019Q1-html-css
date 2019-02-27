@@ -2,3 +2,4 @@
 
 Evgeniy Chuchumakov
 HTML CSS Basics: https://www.codecademy.com/users/Chuchumnoy/achievements
+                 https://htmlacademy.ru/profile/id1020717/achievements
